@@ -6,5 +6,5 @@ This is amzing
 
 This is also amazing
 
-this potaato
+this potato
 
