@@ -1,1 +1,1 @@
-var potato = 1234
+val potato = 1234
