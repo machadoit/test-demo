@@ -1,2 +1,2 @@
-var potato = 1234
 var anotherPotato = 123
+val potato = 1234
