@@ -10,3 +10,5 @@ var issue2 = 123
 
 var issue3 = 123123
 
+val thisIsCorrect = 456
+
