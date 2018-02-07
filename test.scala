@@ -4,7 +4,7 @@ var issue = 123
 
 var hurray = 123131
 
-var issue1 = 123
+val issue1 = 123
 
 var issue2 = 123
 
