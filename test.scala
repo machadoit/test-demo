@@ -13,3 +13,6 @@ var issue3 = 123123
 val thisIsCorrect = 456
 
 val alsoCorrect = 456
+
+val stillCorrect = 456
+
