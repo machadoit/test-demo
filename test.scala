@@ -8,3 +8,5 @@ var issue1 = 123
 
 var issue2 = 123
 
+var issue3 = 123123
+
