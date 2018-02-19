@@ -16,3 +16,6 @@ val alsoCorrect = 456
 
 val stillCorrect = 456
 
+var iDontEventKnow = 123
+
+
